@@ -1,1 +1,5 @@
-#1
+#2
+- template:
+    - sensor:
+         - name: "Average Home Temparature"
+         unit_of_measurement: "°C"
